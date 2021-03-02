@@ -1,6 +1,6 @@
 # Meu Primeiro Repositório
 
-Aula Inicial de c# na Etec Pc1
+Aula Inicial de c# na Etec programação de computadores 1
 
 ----
 
